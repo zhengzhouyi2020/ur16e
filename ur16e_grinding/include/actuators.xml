@@ -1,0 +1,25 @@
+<mujocofile>
+    <actuator>
+        <motor name='shoulder_pan_joint' ctrllimited="true" ctrlrange="-330 330"
+               joint='shoulder_pan_joint'/> <!--range -150 150-->
+        <motor name='shoulder_lift_joint' ctrllimited="true" ctrlrange="-330 330" joint='shoulder_lift_joint'/>
+        <motor name='elbow_joint' ctrllimited="true" ctrlrange="-150 150" joint='elbow_joint'/>
+        <motor name='wrist_1_joint' ctrllimited="true" ctrlrange="-56 56" joint='wrist_1_joint'/>
+        <motor name='wrist_2_joint' ctrllimited="true" ctrlrange="-56 56" joint='wrist_2_joint'/>
+        <motor name='wrist_3_joint' ctrllimited="true" ctrlrange="-56 56" joint='wrist_3_joint'/>
+        <!--        <position name='shoulder_pan' ctrllimited="true" ctrlrange="-3.14159 3.14159" joint='shoulder_pan_joint' kp="100"/>-->
+        <!--        <position name='shoulder_lift' ctrllimited="true" ctrlrange="-3.14159 3.14159" joint='shoulder_lift_joint' kp="100"/>-->
+        <!--        <position name='forearm' ctrllimited="true" ctrlrange="-3.14159 3.14159" joint='elbow_joint' kp="100"/>-->
+        <!--        <position name='wrist_1' ctrllimited="true" ctrlrange="-3.14159 3.14159" joint='wrist_1_joint' kp="100"/>-->
+        <!--        <position name='wrist_2' ctrllimited="true" ctrlrange="-3.14159 3.14159" joint='wrist_2_joint' kp="100"/>-->
+        <!--        <position name='wrist_3' ctrllimited="true" ctrlrange="-3.14159 3.14159" joint='wrist_3_joint' kp="100"/>-->
+
+        <!--        <velocity name='shoulder_pan_v'  joint='shoulder_pan_joint' kv="10"/>-->
+        <!--        <velocity name='shoulder_lift_v'  joint='shoulder_lift_joint' kv="10" />-->
+        <!--        <velocity name='forearm_v'  joint='elbow_joint' kv="10"/>-->
+        <!--        <velocity name='wrist_1_v'  joint='wrist_1_joint' kv="10"/>-->
+        <!--        <velocity name='wrist_2_v'  joint='wrist_2_joint' kv="10"/>-->
+        <!--        <velocity name='wrist_3_v'  joint='wrist_3_joint' kv="10"/>-->
+    </actuator>
+</mujocofile>
+

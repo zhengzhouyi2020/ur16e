@@ -1,0 +1,12 @@
+<mujocoinclude>
+    <body name="spindle" pos="0.00034908 0.0012069 0.0448">
+        <inertial mass="1.514" pos="0 0 0" diaginertia="0.0039276 0.0039844 0.00090475"/>
+        <geom quat="0 0 0 1" type="mesh" rgba="0.86 1 0.53 1" mesh="spindle" contype="1" friction="0. 0.00 0.000"/>
+        <body name="sheep_tool" pos="0 0 0.22663">
+            <inertial mass="0.0053" pos="0 0 0" diaginertia="0.00000065621 0.00000065621 0.0000007376"/>
+            <geom quat="0 0 0 1" type="mesh" rgba="0.86 1 0.53 1" mesh="sheep_tool" contype="1"
+                  friction="0. 0.00 0.000"/>
+            <site name="ee_site" pos="0 0 0.044" size="0.005 0.005 0.005" type="sphere" rgba="0 0 0 0"/>
+        </body>
+    </body>
+</mujocoinclude>

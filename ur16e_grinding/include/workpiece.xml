@@ -1,0 +1,15 @@
+<mujocoinclude>
+    <body pos="0.3304 0.0807 0.869501">
+        <geom type="mesh" contype="0" conaffinity="0" group="1" rgba="0.66667 0.69804 0.76863 1" mesh="plane_link"/>
+        <geom type="mesh" rgba="0.66667 0.69804 0.76863 1" mesh="plane_link"/>
+        <geom pos="-0.005 0.1 0.02" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.66667 0.69804 0.76863 1"
+              mesh="post1_link"/>
+        <geom pos="-0.005 0.1 0.02" type="mesh" rgba="0.66667 0.69804 0.76863 1" mesh="post1_link"/>
+        <geom pos="-0.005 -0.1 0.02" type="mesh" contype="0" conaffinity="0" group="1" rgba="0.66667 0.69804 0.76863 1"
+              mesh="post2_link"/>
+        <geom pos="-0.005 -0.1 0.02" type="mesh" rgba="0.66667 0.69804 0.76863 1" mesh="post2_link"/>
+        <geom pos="-0.005 0 0.2" type="mesh" contype="0" conaffinity="0" group="1" rgba="1 1 1 1" mesh="workpiece"/>
+        <geom pos="-0.005 0 0.2" type="mesh" rgba="1 1 1 1" mesh="workpiece"/>
+    </body>
+
+</mujocoinclude>

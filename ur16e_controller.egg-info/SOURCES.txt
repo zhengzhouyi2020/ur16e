@@ -1,0 +1,6 @@
+setup.py
+ur16e_controller.egg-info/PKG-INFO
+ur16e_controller.egg-info/SOURCES.txt
+ur16e_controller.egg-info/dependency_links.txt
+ur16e_controller.egg-info/requires.txt
+ur16e_controller.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+<mujocoinclude>
+    <body name="sander" pos="0.00034908 0.0012069 0.034348">
+        <inertial mass="1.144" pos="0 0 0" diaginertia="0.0003160 0.0005574 0.0007233"/>
+        <geom quat="0 0 0 1" type="mesh" rgba="0.86 1 0.53 1" mesh="sander" contype="1" friction="0. 0.00 0.000"/>
+        <site name="ee_site" pos="0 0 0.1004453" size="0.005 0.005 0.005" type="sphere" rgba="0 0 0 0"/>
+    </body>
+</mujocoinclude>

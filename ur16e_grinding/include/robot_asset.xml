@@ -1,0 +1,29 @@
+<mujocoinclude>
+    <!-- Meshes -->
+    <!--    <mesh name="workpiece" file="workpiece.STL" />-->
+    <mesh name="desktop" file="desktop.STL"/>
+    <mesh name="cammera_component1" file="cammera_component1.STL"/>
+    <mesh name="cammera_component2" file="cammera_component2.STL"/>
+    <mesh name="cammera_component3" file="cammera_component3.STL"/>
+    <mesh name="cammera_component4" file="cammera_component4.STL"/>
+    <mesh name="cammera_component5" file="cammera_component5.STL"/>
+    <mesh name="grit_changer_component" file="grit_changer_component.STL"/>
+    <mesh name="base_plane_component" file="base_plane_component.STL"/>
+    <mesh name="eye" file="eye.STL"/>
+    <mesh name="hex" file="hex.STL"/>
+    <mesh name="sander" file="sander.STL"/>
+    <mesh name="base" file="base.stl"/>
+    <mesh name="shoulder" file="shoulder.stl"/>
+    <mesh name="upperarm" file="upperarm.stl"/>
+    <mesh name="forearm" file="forearm.stl"/>
+    <mesh name="wrist1" file="wrist1.stl"/>
+    <mesh name="wrist2" file="wrist2.stl"/>
+    <mesh name="wrist3" file="wrist3.stl"/>
+
+    <mesh name="plane_link" file="plane_link.STL"/>
+    <mesh name="post1_link" file="post1_Link.STL"/>
+    <mesh name="post2_link" file="post2_Link.STL"/>
+    <mesh name="workpiece" file="contour_workpiece.STL"/>
+    <mesh name="spindle" file="spindle.STL"/>
+    <mesh name="sheep_tool" file="tool_link.STL"/>
+</mujocoinclude>
